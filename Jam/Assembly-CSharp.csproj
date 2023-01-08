@@ -61,7 +61,8 @@
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\SimpleCelebrations\_Demo\CGPersia Exclusive.txt" />
+    <None Include="Assets\PolygonParticles\Materials\SHARED BY LUXURYPANDA.txt" />
+    <None Include="Assets\Simple\SimpleCelebrations\_Demo\CGPersia Exclusive.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
